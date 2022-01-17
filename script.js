@@ -22,9 +22,9 @@ setTimeout(()=>{
                                heading.innerHTML=time-8
                                setTimeout(()=>{
                                    heading.innerHTML=time-9
-                                       setTimeout(()=>{
-                                           animation.innerHTML="HAPPY REPUBLIC DAY!"
+                                   setTimeout(()=>{
                                            heading.innerHTML=g
+                                           animation.innerHTML="HAPPY REPUBLIC DAY!"
                                        },1000)
                                },1000)
                            },1000)
