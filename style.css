@@ -1,0 +1,23 @@
+body{
+    background-color: olive;
+
+}
+.right{
+    float: right;
+}
+.img{
+    width:50%;
+    margin-top:70px;
+    margin-left: 300px;
+}
+.left{
+    float:left;
+}
+.heading{
+    margin-left:600px;
+}
+.heading1{
+    margin-left:330px;
+    color:navy;
+    font-size: 50px;
+}
